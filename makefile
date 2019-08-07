@@ -1,5 +1,5 @@
 CC = g++
-STD = 
+STD =
 PROGRAM = ascii_art
 
 $(PROGRAM).out: main.cpp ascii.cpp

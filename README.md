@@ -5,3 +5,5 @@
 実行は  
 `./ascii_art.out "first line" "second line"`  
 のような感じで入力してください。
+## license
+MIT
