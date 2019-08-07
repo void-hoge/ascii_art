@@ -1,4 +1,3 @@
-#include <iostream>
 #include "ascii.hpp"
 
 int main(int argc, char const *argv[]) {
