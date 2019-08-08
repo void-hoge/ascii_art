@@ -6,7 +6,7 @@ character::character(std::vector<std::string> buf){
 
 std::string character::get_string(int line){
     if ((line < 0) || (line > 16)) {
-        return "                ";  //16 spaces
+        return "         ";  //9 spaces
     }
     return chara[line];
 }
